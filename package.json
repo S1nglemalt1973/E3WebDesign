@@ -1,0 +1,22 @@
+{
+  "name": "e3webdesign",
+  "version": "1.0.0",
+  "description": "Simple Business Site",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "echo \"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S1nglemalt1973/E3WebDesign.git"
+  },
+  "author": "Jim Wood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S1nglemalt1973/E3WebDesign/issues"
+  },
+  "homepage": "https://github.com/S1nglemalt1973/E3WebDesign",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
